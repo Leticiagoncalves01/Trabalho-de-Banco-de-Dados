@@ -7,6 +7,6 @@ Gabriel Lopes: https://github.com/Gabriel-lgui/Zool-gico-Banco-de-dados
 
 Laís Medeiros: https://github.com/LaisMedeiros02/Trabalho-de-Banco-de-Dados
 
-Letícia Medeiros:
+Letícia Medeiros: https://github.com/Leticiagoncalves01/Trabalho-de-Banco-de-Dados
 
 Roberta Sued Nascimento:
