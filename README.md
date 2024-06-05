@@ -11,4 +11,4 @@ Laís Medeiros: https://github.com/LaisMedeiros02/Trabalho-de-Banco-de-Dados
 
 Letícia Medeiros: https://github.com/Leticiagoncalves01/Trabalho-de-Banco-de-Dados
 
-Roberta Sued Nascimento:
+Roberta Sued Nascimento: https://github.com/RobertaSueed/Trabalho-de-Banco-de-Dados
